@@ -27,8 +27,14 @@ Make sure you have the correct version of **Haar Cascade** for face detection, w
 
 To install the required libraries on **Windows, Mac, or Linux**, simply run the following command:
 
-```bash
-pip install opencv-python-headless numpy tensorflow
+```command
+pip install opencv-python
+```
+```numpy
+pip install numpy
+```
+```tensorflow
+pip install tensorflow
 ```
 ## 🎥 Running the Application
 
