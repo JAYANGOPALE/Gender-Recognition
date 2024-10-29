@@ -44,3 +44,4 @@ For project security and to keep the code proprietary, the exact implementation 
 ## 🎉 Achievements
 
 This project showcases the powerful intersection of machine learning and real-time analytics in enhancing public safety, and we’re excited to have won first prize at **SIH 2024** for our efforts!
+
