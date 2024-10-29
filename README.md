@@ -9,9 +9,16 @@ The system leverages deep learning models to identify if a person is wearing a m
 ## 🚀 Features
 
 - **Gender Detection**: Uses a convolutional neural network (CNN) to classify gender as either 'Male' or 'Female' based on facial detection.
-- **Mask Detection**: Recognizes whether a person is wearing a mask, using a separate deep learning model.
 - **Real-Time Processing**: Utilizes OpenCV for seamless, real-time video processing, showing detection results on the screen instantly.
 
+## 🧑‍💻Dataset
+- **Training data set**
+  - *Male*: contains 23766 indivisual images to train
+  - *Female*: contains 23243 indivisual images to train
+- **testing data set**
+  - *Male*: contains 5808 indivisual images to test
+  - *Female* : contains 5814 indivisual images to test
+- [dataset_link](https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset/data)
 ## 📦 Requirements
 
 To run this project, you'll need:
