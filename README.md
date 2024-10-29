@@ -1,4 +1,4 @@
-# 🏆 Women Safety Analytics - Gender and Mask Detection System
+# 🏆 Women Safety Analytics - Gender and Mask Detection System.
 
 This project was developed as part of the **Smart India Hackathon (SIH) 2024** and won first prize! 🎉 Our goal was to create real-time threat detection software to help improve women’s safety in public spaces through gender and mask detection using live video feeds.
 
